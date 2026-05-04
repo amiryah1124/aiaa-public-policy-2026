@@ -164,7 +164,7 @@ A central goal of the event was to ensure that students were not only attendees,
 
 To support this objective, the event included a dedicated **Research & Innovation Poster Symposium**. With support from **Ryan Reynolds** and the **Office of Undergraduate Research at ERAU**, students were invited to present their latest research and engage with attendees.
 
-The event included approximately **40 student posters**, reflecting a broad range of research across aerospace engineering, policy-related topics, and adjacent fields.
+The event included **40 student posters**, reflecting a broad range of research across aerospace engineering, policy-related topics, and adjacent fields.
 
 The poster symposium served two purposes:
 
@@ -191,13 +191,29 @@ The program included:
 * Closing keynote
 * Research & Innovation Poster Symposium
 
-[View Event Agenda](materials/agenda.pdf)
+[View Event Agenda](materials/Agenda.pdf)
 
 ---
 
 ## Event Day Summary
 
 The event began with a **networking breakfast**, giving students, faculty, speakers, professionals, and community members an opportunity to connect before the formal sessions.
+
+![networking1](images/2.jpg)
+
+*Figure 3: Attendees check in. Photo credit: Sylvia Scovera.*
+
+![networking2](images/3.jpg)
+
+*Figure 4: Networking breakfast at the start of the event, providing attendees an opportunity to connect before the formal sessions. Photo credit: Sylvia Scovera.*
+
+![networkign3](images/4.jpg)
+
+*Figure 5: Networking breakfast at the start of the event. Photo credit: Sylvia Scovera.*
+
+![networking4](images/5.jpg)
+
+*Figure 6: Networking breakfast at the start of the event. Photo credit: Sylvia Scovera.*
 
 The program officially opened with welcoming remarks, an introduction to AIAA, the objectives of the event, and an overview of the day.
 
@@ -206,16 +222,41 @@ The program officially opened with welcoming remarks, an introduction to AIAA, t
 The first session focused on how government, policy, and governance shape the aerospace sector.
 
 * **Representative Tyler Sirois** provided a government perspective on current space policy priorities, legislative direction, and the role of government in advancing the space sector.
-* **Dr. Elisabeth (Hope) Murray** discussed policy frameworks, global governance, and strategic decision-making in the evolving space ecosystem.
+
+![Representative Tyler Sirois and Kevin Simmons](images/6.JPG)
+
+*Figure 7: Representative Tyler Sirois (left) and Kevin Simmons (right). Photo credit: Mehdi Ghanati.*
+
+
+  
+* **Dr. Elisabeth Murray** discussed policy frameworks, global governance, and strategic decision-making in the evolving space ecosystem.
 
 Together, these talks established the policy and governance foundation for the event.
+
+![Dr. Murray](images/7.JPG)
+
+*Figure 8: Dr. Elisabeth Murray. Photo credit: Mehdi Ghanati.*
+
 
 ### Session 2: Industry, Education, and Workforce Development
 
 The second session focused on workforce development and the relationship between education and industry.
 
 * **Kevin Simmons** discussed industry needs, workforce development, and collaboration between private sector organizations and educational institutions.
+
+
+![Kevin Simmons](images/10.JPG)
+
+*Figure 11: Kevin Simmons. Photo credit: Mehdi Ghanati.*
+
+  
 * A **student research presentation** reinforced the role of students as active contributors to the aerospace ecosystem.
+  
+
+![Margaret O'Brien](images/8.JPG)
+
+*Figure 10: Margaret O’Brien delivering the student research presentation, highlighting the role of student work in aerospace policy and public engagement. Photo credit: Hannah Hodge.*
+
 
 This session connected aerospace policy to the practical challenge of preparing the next generation of professionals.
 
@@ -228,7 +269,16 @@ Lunch provided time for attendees to speak directly with speakers, sponsors, stu
 The third session focused on professional engagement and the role of AIAA in supporting the aerospace community.
 
 * **Kevin Johnson** discussed AIAA and community impact, emphasizing the role of professional organizations in policy engagement, public outreach, and support for students and early-career professionals.
+
+![Kevin Johnson](images/9.JPG)
+
+*Figure 11: Kevin Johnson. Photo credit: Mehdi Ghanati.*
+
 * **Joshua Robinett** delivered the closing keynote, summarizing the major themes of the day: policy, innovation, collaboration, education, workforce development, and student engagement.
+
+![Dr. Murray](images/7.JPG)
+
+*Figure 12: Kevin Johnson. Photo credit: Mehdi Ghanati.*
 
 The closing remarks helped frame the event as a connected discussion rather than a set of independent talks.
 

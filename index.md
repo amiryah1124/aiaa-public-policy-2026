@@ -45,7 +45,7 @@ Because aerospace public policy intersects with multiple communities, the role w
 
 **Committee members:**
 
-* **Amir Yahyaeian**, Chair
+* **Amir Yahy**, Chair
 * **Joshua Robinett**, Secretary
 * **Alexander Killian**, Student Coordinator
 

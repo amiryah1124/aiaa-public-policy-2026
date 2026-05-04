@@ -307,6 +307,35 @@ The symposium was one of the most important components of the event because it p
 
 [View Student Poster PDFs](posters/)
 
+![Poster1](images/17.JPG)
+
+*Figure 15: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
+
+![Poster1](images/18.JPG)
+
+*Figure 16: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
+
+![Poster1](images/19.JPG)
+
+*Figure 17: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
+
+![Poster1](images/20.JPG)
+
+*Figure 18: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
+
+![Poster1](images/21.JPG)
+
+*Figure 19: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
+
+![Poster1](images/22.JPG)
+
+*Figure 20: Joshua Robinett. Photo credit: Mehdi Ghanati.*
+
+![Poster1](images/23.JPG)
+
+*Figure 21: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
+
+
 ---
 
 ## Outcomes
@@ -314,7 +343,7 @@ The symposium was one of the most important components of the event because it p
 The AIAA Public Policy Outreach Event 2026 achieved several outcomes:
 
 * Brought together approximately **80 attendees** from academia, industry, government, student organizations, and the broader community
-* Featured approximately **40 student posters** through the Research & Innovation Poster Symposium
+* Featured  **40 student posters** through the Research & Innovation Poster Symposium
 * Created a local platform for aerospace public policy discussion
 * Connected students with faculty, professionals, industry and education leaders, government representatives, and community partners
 * Increased awareness of how technical aerospace research can relate to public policy priorities
@@ -336,19 +365,17 @@ This event was made possible through the support and dedication of many individu
 * **SmallSat Education Inc.**
 * **One Church Port Orange**
 
-Special thanks to **Kevin Johnson** for his leadership, mentorship, encouragement, and guidance throughout the development of the Public Policy Committee and this event.
+Special thanks to **Kevin Johnson** for his leadership, encouragement, and guidance throughout the development of the Public Policy Committee and this event.
 
-Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth (Hope) Murray**, **Kevin Simmons**, and **Kevin Johnson** for serving as speakers and sharing their perspectives with the community.
+Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth (Hope) Murray**, **Kevin Simmons**, and **Kevin Johnson** for kindly accepting our invite, serving as speakers and sharing their perspectives with the community.
 
-Thank you to **Joshua Robinett** for his dedication as Secretary of the Public Policy Committee and for delivering the closing keynote.
-
-Thank you to **Alexander Killian** for serving as Student Coordinator and supporting the student-centered mission of the committee.
+Thank you to **Prof Ishak** and **Demi Bentili** and the college of engineering at ERAU.
 
 Thank you to **Ryan Reynolds** and the Office of Undergraduate Research at ERAU for supporting the student poster symposium.
 
 Thank you to **Margaret O’Brien** for contributing as the student speaker and representing the student voice in the public policy conversation.
 
-Thank you to **Pastor Nick Griffin**, **Pastor Jason Burnside**, and the One Church Port Orange community for supporting student outreach and helping connect this initiative with the broader community.
+Thank you to **Pastor Nick Griffin**, **Pastor Jason Burnside**, **Pastor Stephen Storms** and the One Church Port Orange community for supporting student outreach and helping connect this initiative with the broader community.
 
 Finally, thank you to all students, faculty, speakers, volunteers, sponsors, and attendees who contributed to the success of the event.
 
@@ -364,7 +391,5 @@ Moving forward, the goal is to continue building platforms that help students re
 
 ---
 
-**Amir Yahyaeian**
-Public Policy Chair
-AIAA Cape Canaveral Section
+**Amir Yahy**
 May 2026

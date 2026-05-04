@@ -1,8 +1,7 @@
-# AIAA Public Policy Outreach Event 2026
 
-**Connecting Aerospace, Policy, Education, and Community**
+*Connecting Aerospace, Policy, Education, and Community*
 
-**May 1, 2026 | Embry-Riddle Aeronautical University | Daytona Beach, Florida**
+*May 1, 2026  Embry-Riddle Aeronautical University  Daytona Beach, Florida*
 
 Organized by **Public Policy Committee**, AIAA Cape Canaveral Section
 

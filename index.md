@@ -47,9 +47,9 @@ Because aerospace public policy intersects with multiple communities, the role w
 
 **Committee members:**
 
-* **Amir Yahyaeian** — Public Policy Chair
-* **Joshua Robinett** — Secretary
-* **Alexander Killian** — Student Coordinator
+* **Amir Yahyaeian**, Chair
+* **Joshua Robinett**, Secretary
+* **Alexander Killian**, Student Coordinator
 
 The committee was developed with support and guidance from **Kevin Johnson**, Chair of the AIAA Cape Canaveral Section.
 
@@ -87,19 +87,18 @@ This finding shaped the direction of the initiative. The objective became not on
 
 The outreach process showed that aerospace public policy requires engagement across several disciplines and communities.
 
-On campus, this included connections between engineering groups and areas related to policy, governance, security, regulation, and international affairs. The committee became more familiar with work connected to:
+On campus, this included connections between engineering groups and areas related to policy, governance, security, regulation, and international affairs. The committee became more familiar with the following departments:
 
 * Security Studies and International Affairs
-* Astrophysics
-* Homeland Security
+* Aeronautical Science Department
 
-Faculty whose work intersected with these areas included **Dr. Elisabeth (Hope) Murray**, **Dr. Alice Dell’Era**, and **Dr. Trevor Simoneau**, with interests connected to environmental security, national and international security, space policy, and aviation legislation and regulation.
+Through this campus outreach, the committee identified and became more familiar with faculty whose work intersects with aerospace policy, governance, security, and regulation. This included **Dr. Elisabeth (Hope) Murray**, **Dr. Alice Dell’Era**, and **Dr. Trevor Simoneau**, whose interests connect to areas such as environmental security, national and international security, space policy, and aviation legislation and regulation.
 
 Beyond campus, outreach included engagement with education, community, and government partners.
 
-In October 2025, Amir Yahyaeian and Joshua Robinett attended the **SmallSat Education Conference at Kennedy Space Center**, which provided an opportunity to connect with aerospace educators and leaders focused on student opportunity, workforce development, and public engagement.
+In October 2025, Amir Yah and Joshua Robinett attended the **SmallSat Education Conference at Kennedy Space Center**, which provided an opportunity to connect with aerospace educators and leaders focused on student opportunity, workforce development, and public engagement.
 
-![Amir Yah and Joshua Robinett at Kennedy Space Center](images/smallsat_ksc.jpg)
+![Amir Yah and Joshua Robinett at Kennedy Space Center](images/SmallSat_KSC.jpg)
 
 *Figure 1: Amir Yah (left) and Joshua Robinett (right) at Kennedy Space Center during the SmallSat Education Conference, October 2025.*
 
@@ -126,7 +125,7 @@ The outreach phase identified a need for a shared platform where these groups co
 
 This led to the development of the **AIAA Public Policy Outreach Event 2026**.
 
-Embry-Riddle Aeronautical University was selected as the host location because of its aerospace identity, accessibility, and student-centered environment.
+Embry-Riddle Aeronautical University was selected as the host location because of its aerospace identity, accessibility, and student-centered environment. During the event-design phase, the committee connected with the **ERAU College of Engineering**, including **Prof. Sherif Ishak** and **Demi Bentley**, to evaluate campus hosting options, align the event with the college environment, and coordinate the logistical requirements for a full-day program.
 
 The event was designed around four communities identified through outreach:
 
@@ -135,7 +134,7 @@ The event was designed around four communities identified through outreach:
 * Government
 * Community partners
 
-![Official event poster](images/event_poster.jpg)
+![Official event poster](images/Poster.jpg)
 
 *Figure 2: Official event poster outlining the structure, speakers, and thematic focus of the AIAA Public Policy Outreach Event 2026.*
 

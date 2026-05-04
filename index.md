@@ -367,13 +367,13 @@ This event was made possible through the support and dedication of many individu
 
 Special thanks to **Kevin Johnson** for his leadership, encouragement, and guidance throughout the development of the Public Policy Committee and this event.
 
-Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth (Hope) Murray**, **Kevin Simmons**, and **Kevin Johnson** for kindly accepting our invite, serving as speakers and sharing their perspectives with the community.
+Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth (Hope) Murray**, and **Kevin Simmons** for kindly accepting our invitation, serving as speakers, and sharing their perspectives with the community.
 
-Thank you to **Prof Ishak** and **Demi Bentili** and the college of engineering at ERAU.
+Thank you to **Prof Ishak** and **Demi Bentili** and the college of engineering at ERAU for their support, coordination, and assistance in making the event possible.
 
 Thank you to **Ryan Reynolds** and the Office of Undergraduate Research at ERAU for supporting the student poster symposium.
 
-Thank you to **Margaret O’Brien** for contributing as the student speaker and representing the student voice in the public policy conversation.
+Thank you to **Margaret O’Brien** and her advisor **Dr. Trevor Simoneau** for contributing as the student speaker and representing the student voice in the public policy conversation.
 
 Thank you to **Pastor Nick Griffin**, **Pastor Jason Burnside**, **Pastor Stephen Storms** and the One Church Port Orange community for supporting student outreach and helping connect this initiative with the broader community.
 

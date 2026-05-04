@@ -125,7 +125,7 @@ The outreach phase identified a need for a shared platform where these groups co
 
 This led to the development of the **AIAA Public Policy Outreach Event 2026**.
 
-Embry-Riddle Aeronautical University was selected as the host location because of its aerospace identity, accessibility, and student-centered environment. During the event-design phase, the committee connected with the **ERAU College of Engineering**, including **Prof. Sherif Ishak** and **Demi Bentley**, to evaluate campus hosting options, align the event with the college environment, and coordinate the logistical requirements for a full-day program.
+Embry-Riddle Aeronautical University was selected as the host location because of its aerospace identity, accessibility, and student-centered environment. During the event-design phase, the committee connected with the **ERAU College of Engineering**, including **Prof. Sherif Ishak** and **Demi Bentli**, to evaluate campus hosting options, align the event with the college environment, and coordinate the logistical requirements for a full-day program.
 
 The event was designed around four communities identified through outreach:
 
@@ -336,7 +336,7 @@ The symposium was one of the most important components of the event because it p
 
 ![Poster1](images/24.JPG)
 
-*Figure 21: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
+*Figure 22: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
 
 ---
 
@@ -371,7 +371,7 @@ Special thanks to **Kevin Johnson** for his leadership, encouragement, and guida
 
 Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth Murray**, and **Kevin Simmons** for kindly accepting our invitation, serving as speakers, and sharing their perspectives with the community.
 
-Thank you to **Prof Ishak** and **Demi Bentli** and the college of engineering at ERAU for their support, coordination, and assistance in making the event possible.
+Thank you to **Prof. Ishak** and **Demi Bentli** and the college of engineering at ERAU for their support, coordination, and assistance in making the event possible.
 
 Thank you to **Ryan Reynolds** and the Office of Undergraduate Research at ERAU for supporting the student poster symposium.
 

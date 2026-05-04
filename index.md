@@ -92,7 +92,7 @@ On campus, this included connections between engineering groups and areas relate
 * Security Studies and International Affairs
 * Aeronautical Science Department
 
-Through this campus outreach, the committee identified and became more familiar with faculty whose work intersects with aerospace policy, governance, security, and regulation. This included **Dr. Elisabeth (Hope) Murray**, **Dr. Alice Dell’Era**, and **Dr. Trevor Simoneau**, whose interests connect to areas such as environmental security, national and international security, space policy, and aviation legislation and regulation.
+Through this campus outreach, the committee identified and became more familiar with faculty whose work intersects with aerospace policy, governance, security, and regulation. This included **Dr. Elisabeth Murray**, **Dr. Alice Dell’Era**, and **Dr. Trevor Simoneau**, whose interests connect to areas such as environmental security, national and international security, space policy, and aviation legislation and regulation.
 
 Beyond campus, outreach included engagement with education, community, and government partners.
 
@@ -141,7 +141,7 @@ The event was designed around four communities identified through outreach:
 The speaker program was structured to represent different parts of the aerospace public policy ecosystem:
 
 * **Representative Tyler Sirois** — Government and legislative perspective
-* **Dr. Elisabeth (Hope) Murray** — Space policy, governance, and strategic decision-making
+* **Dr. Elisabeth Murray** — Space policy, governance, and strategic decision-making
 * **Kevin Simmons** — Industry, education, and workforce development
 * **Kevin Johnson** — AIAA leadership, professional engagement, and community impact
 
@@ -369,7 +369,7 @@ This event was made possible through the support and dedication of many individu
 
 Special thanks to **Kevin Johnson** for his leadership, encouragement, and guidance throughout the development of the Public Policy Committee and this event.
 
-Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth (Hope) Murray**, and **Kevin Simmons** for kindly accepting our invitation, serving as speakers, and sharing their perspectives with the community.
+Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth Murray**, and **Kevin Simmons** for kindly accepting our invitation, serving as speakers, and sharing their perspectives with the community.
 
 Thank you to **Prof Ishak** and **Demi Bentli** and the college of engineering at ERAU for their support, coordination, and assistance in making the event possible.
 

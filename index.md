@@ -20,7 +20,7 @@ Organized by **Public Policy Committee**, AIAA Cape Canaveral Section
 | **Primary Focus**           | Aerospace public policy awareness, student engagement, workforce development, professional outreach, and community connection |
 | **Sponsors and Supporters** | ERAU College of Engineering, AIAA Cape Canaveral Section, SmallSat Education Inc., One Church Port Orange                     |
 
-**Event Materials**
+
 
 * [Event Agenda](materials/Agenda.pdf)
 

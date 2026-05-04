@@ -106,9 +106,9 @@ During this outreach, the committee connected with **Kevin Simmons**, whose expe
 
 The committee also engaged with **One Church Port Orange**, including **Pastor Nick Griffin** and **Pastor Jason Burnside**, who support student-centered community-building efforts in the region.
 
-At the government level, **Representative Tyler Sirois** was identified as an important speaker because of the event’s focus on government, governance, and legislative perspectives in space policy.
+At the government level, **Representative Tyler Sirois** was identified as a highly relevant public-sector leader because of his legislative experience and connection to policy areas important to Florida’s aerospace community.
 
-By the end of 2025, the outreach process had connected four major groups:
+By the end of 2025, the outreach process had helped identify strong potential connections across four major groups:
 
 * On-campus academic communities
 * Off-campus community partners

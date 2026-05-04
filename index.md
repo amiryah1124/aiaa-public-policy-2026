@@ -23,7 +23,9 @@ Organized by **Public Policy Committee**, AIAA Cape Canaveral Section
 **Event Materials**
 
 * [Event Agenda](materials/Agenda.pdf)
-* [Student Poster PDFs](posters/)
+
+<!-- * [Student Poster PDFs](posters/) -->
+
 
 ---
 
@@ -302,7 +304,7 @@ Students and researchers presented work across aerospace engineering, policy, an
 
 The symposium was one of the most important components of the event because it placed students at the center of the program and created a direct connection between student research and the broader aerospace community.
 
-[View Student Poster PDFs](posters/)
+<!-- [View Student Poster PDFs](posters/) -->
 
 ![Poster1](images/17.JPG)
 

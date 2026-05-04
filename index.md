@@ -199,19 +199,19 @@ The program included:
 
 The event began with a **networking breakfast**, giving students, faculty, speakers, professionals, and community members an opportunity to connect before the formal sessions.
 
-![networking1](images/2.jpg)
+![networking1](images/3.jpg)
 
 *Figure 3: Attendees check in. Photo credit: Sylvia Scovera.*
 
-![networking2](images/3.jpg)
+![networking2](images/4.jpg)
 
 *Figure 4: Networking breakfast at the start of the event, providing attendees an opportunity to connect before the formal sessions. Photo credit: Sylvia Scovera.*
 
-![networkign3](images/4.jpg)
+![networkign3](images/5.jpg)
 
 *Figure 5: Networking breakfast at the start of the event. Photo credit: Sylvia Scovera.*
 
-![networking4](images/5.jpg)
+![networking4](images/6.jpg)
 
 *Figure 6: Networking breakfast at the start of the event. Photo credit: Sylvia Scovera.*
 

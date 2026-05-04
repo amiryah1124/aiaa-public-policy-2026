@@ -247,7 +247,7 @@ The second session focused on workforce development and the relationship between
 
 ![Kevin Simmons](images/10.JPG)
 
-*Figure 11: Kevin Simmons. Photo credit: Mehdi Ghanati.*
+*Figure 9: Kevin Simmons. Photo credit: Mehdi Ghanati.*
 
   
 * A **student research presentation** reinforced the role of students as active contributors to the aerospace ecosystem.
@@ -264,21 +264,34 @@ This session connected aerospace policy to the practical challenge of preparing 
 
 Lunch provided time for attendees to speak directly with speakers, sponsors, students, and peers. This informal networking supported one of the event’s core goals: building connections across communities.
 
+![Lunch1](images/11.JPG)
+
+*Figure 11: Lunch and networking session. Photo credit: Mehdi Ghanati.*
+
+The closing remarks helped frame the event as a connected discussion rather than a set of independent talks.
+
+![Lunch2](images/14.JPG)
+
+*Figure 12: Lunch and networking session. Photo credit: Mehdi Ghanati.*
+
+The closing remarks helped frame the event as a connected discussion rather than a set of independent talks.
+
+
 ### Session 3: Professional Engagement and Community Impact
 
 The third session focused on professional engagement and the role of AIAA in supporting the aerospace community.
 
 * **Kevin Johnson** discussed AIAA and community impact, emphasizing the role of professional organizations in policy engagement, public outreach, and support for students and early-career professionals.
 
-![Kevin Johnson](images/9.JPG)
+![Kevin Johnson](images/12.JPG)
 
-*Figure 11: Kevin Johnson. Photo credit: Mehdi Ghanati.*
+*Figure 13: Amir Yah (left) and Kevin Johnson (right). Photo credit: Mehdi Ghanati.*
 
 * **Joshua Robinett** delivered the closing keynote, summarizing the major themes of the day: policy, innovation, collaboration, education, workforce development, and student engagement.
 
-![Dr. Murray](images/7.JPG)
+![Joshua](images/13.JPG)
 
-*Figure 12: Kevin Johnson. Photo credit: Mehdi Ghanati.*
+*Figure 14: Joshua Robinett. Photo credit: Hannah Hodge.*
 
 The closing remarks helped frame the event as a connected discussion rather than a set of independent talks.
 

@@ -264,17 +264,16 @@ This session connected aerospace policy to the practical challenge of preparing 
 
 Lunch provided time for attendees to speak directly with speakers, sponsors, students, and peers. This informal networking supported one of the event’s core goals: building connections across communities.
 
+
 ![Lunch1](images/11.JPG)
 
 *Figure 11: Lunch and networking session. Photo credit: Mehdi Ghanati.*
 
-The closing remarks helped frame the event as a connected discussion rather than a set of independent talks.
 
 ![Lunch2](images/14.JPG)
 
 *Figure 12: Lunch and networking session. Photo credit: Mehdi Ghanati.*
 
-The closing remarks helped frame the event as a connected discussion rather than a set of independent talks.
 
 
 ### Session 3: Professional Engagement and Community Impact
@@ -335,6 +334,9 @@ The symposium was one of the most important components of the event because it p
 
 *Figure 21: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
 
+![Poster1](images/24.JPG)
+
+*Figure 21: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
 
 ---
 

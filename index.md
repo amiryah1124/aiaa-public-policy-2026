@@ -329,7 +329,7 @@ The symposium was one of the most important components of the event because it p
 
 ![Poster1](images/22.JPG)
 
-*Figure 20: Joshua Robinett. Photo credit: Mehdi Ghanati.*
+*Figure 20: Research & Innovation Poster Symposium. Photo credit: Mehdi Ghanati.*
 
 ![Poster1](images/23.JPG)
 
@@ -369,7 +369,7 @@ Special thanks to **Kevin Johnson** for his leadership, encouragement, and guida
 
 Thank you to **Representative Tyler Sirois**, **Dr. Elisabeth (Hope) Murray**, and **Kevin Simmons** for kindly accepting our invitation, serving as speakers, and sharing their perspectives with the community.
 
-Thank you to **Prof Ishak** and **Demi Bentili** and the college of engineering at ERAU for their support, coordination, and assistance in making the event possible.
+Thank you to **Prof Ishak** and **Demi Bentli** and the college of engineering at ERAU for their support, coordination, and assistance in making the event possible.
 
 Thank you to **Ryan Reynolds** and the Office of Undergraduate Research at ERAU for supporting the student poster symposium.
 

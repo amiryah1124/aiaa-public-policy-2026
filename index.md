@@ -1,7 +1,6 @@
 
-*Connecting Aerospace, Policy, Education, and Community*
-
-*May 1, 2026  Embry-Riddle Aeronautical University  Daytona Beach, Florida*
+**Connecting Aerospace, Policy, Education, Workforce Development, and Community**  
+**May 1, 2026 | Embry-Riddle Aeronautical University | Daytona Beach, Florida**
 
 Organized by **Public Policy Committee**, AIAA Cape Canaveral Section
 

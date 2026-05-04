@@ -14,17 +14,17 @@ Organized by **Public Policy Committee**, AIAA Cape Canaveral Section
 | Item                        | Details                                                                                                                       |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Event**                   | AIAA Public Policy Outreach Event 2026                                                                                        |
-| **Date**                    | May 1, 2026 — National Space Day                                                                                              |
+| **Date**                    | May 1, 2026: National Space Day                                                                                               |
 | **Location**                | Embry-Riddle Aeronautical University, Daytona Beach, Florida                                                                  |
-| **Organizer**               | Amir Yahyaeian, Public Policy Chair, AIAA Cape Canaveral Section                                                              |
+| **Organizer**               | Public Policy Committee, AIAA Cape Canaveral Section                                                                          |
 | **Attendance**              | Approximately 80 attendees                                                                                                    |
-| **Student Research**        | Approximately 40 student posters                                                                                              |
+| **Student Research**        | 40 student posters                                                                                                            |
 | **Primary Focus**           | Aerospace public policy awareness, student engagement, workforce development, professional outreach, and community connection |
 | **Sponsors and Supporters** | ERAU College of Engineering, AIAA Cape Canaveral Section, SmallSat Education Inc., One Church Port Orange                     |
 
 **Event Materials**
 
-* [Event Agenda](materials/agenda.pdf)
+* [Event Agenda](materials/Agenda.pdf)
 * [Student Poster PDFs](posters/)
 
 ---
